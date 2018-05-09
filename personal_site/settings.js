@@ -1,8 +1,8 @@
 // Update site content
 
 var config = {
-    "title": "Your Name Here",
-    "description": "Your Occupation Here"
+    "title": "Cole Brooks",
+    "description": "Programmer / Developer"
 }
 
 var details = [
